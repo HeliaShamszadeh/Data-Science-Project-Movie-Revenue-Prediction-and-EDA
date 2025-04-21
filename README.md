@@ -4,7 +4,7 @@ A complete data science project focused on analyzing and predicting movie revenu
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 The project consists of two main parts:
 
@@ -28,7 +28,7 @@ The project consists of two main parts:
 
 ---
 
-## 🧠 Key Skills & Tools
+## Key Skills & Tools
 
 - **Languages & Libraries:**  
   `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
@@ -42,7 +42,7 @@ The project consists of two main parts:
 
 ---
 
-## 🗃️ Dataset
+## Dataset
 
 - The dataset includes various features like:
   - Budget
@@ -55,15 +55,7 @@ The project consists of two main parts:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HeliaShamszadeh/Data-Science-Project-Movie-Revenue-Prediction-and-EDA.git
-   cd Data-Science-Project-Movie-Revenue-Prediction-and-EDA
-
-
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 Sample visualization of revenue distribution across movies.
 
