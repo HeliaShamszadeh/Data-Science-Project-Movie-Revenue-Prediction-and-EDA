@@ -142,8 +142,6 @@ Typical libraries used:
 * `xgboost`
 * `ast` / `literal_eval` utilities
 
-*(Create `requirements.txt` according to your environment if it does not exist yet.)*
-
 ---
 
 ## 🚀 How to Run
